@@ -9,5 +9,5 @@
 
 
 
-DEMO GIF:-
+DEMO GIF [(Link)](https://github.com/navrang-singh/navnews_app/blob/main/assets/demo.gif):-
      ![](https://github.com/navrang-singh/navnews_app/blob/main/assets/demo.gif)
